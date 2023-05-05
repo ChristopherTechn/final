@@ -1,0 +1,57 @@
+.container{
+
+    max-width: 600px;
+    margin: 0 auto;
+}
+.p{
+    text-size-adjust: 20px;
+}
+button {
+    background-color:royalblue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    width: 100%;}
+  a{
+    color:blue ;
+    text-decoration: none;
+  }
+   h5{
+    font-weight: normal;
+    text-align: center;
+   }
+
+   input{
+    width: 100%;
+    border-radius: 5px;
+padding: 10px 5px;
+border: 1px solid;
+margin: 10px;
+   }
+   label{
+    text-align: left;
+    width: 100%;
+    padding: 10px 0px;
+    font-weight: bolder;
+    margin: 25px 20px; 
+
+
+   }
+
+   #check{
+
+    width: fit-content;
+   }
+   #send{
+    display: inline;
+   }
+   #link{
+    padding: 1px 0px;
+    margin: 2px 2px; 
+   }
+    
+  
